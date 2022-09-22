@@ -60,7 +60,7 @@ const config = {
         title: '',
         logo: {
           alt: 'UrbanMatrix logo',
-          src: 'img/title_um_black.png',
+          src: 'img/logo.png',
           width: 200
         },
         items: [
