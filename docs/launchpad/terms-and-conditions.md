@@ -39,6 +39,8 @@ Technologies Private Limited, Bangalore.
 
 - __Service__ refers to the Application.
 
+- __UAV__ refers to the UAV that is controlled using the Application.
+
 - __Terms and Conditions__ (also referred as "Terms") mean these Terms and Conditions that form the entire agreement
 between You and the Company regarding the use of the Service.
 
@@ -47,6 +49,21 @@ provided by a third-party that may be displayed, included or made available by t
 
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which
 such individual is accessing or using the Service, as applicable.
+
+
+## Safe UAV operations
+
+The Company does not warrant its products for any unauthorized use without adhering to the local authority’s regulations
+in place at the time of operation.
+
+UMT LaunchPad is simply a UAV control software. It does not change your flight dynamics in any way. It depends on the
+configuration set by the UAV manufacturer. Please make sure that configurations are within the limits of safe and stable
+UAV operation. The Company is not responsible for any mishandling or unsafe usage of the UAV using UMT LaunchPad.
+
+Flying a UAV exposes consumers to a wide range of liability, and that’s especially true for drone users with little
+experience. It’s possible that man-handling your drone could malfunction and crash into someone’s property, causing
+damage to their home or their car, for instance. For that reason, it is suggested to purchase drone liability insurance
+coverage.
 
 
 ## Acknowledgment
