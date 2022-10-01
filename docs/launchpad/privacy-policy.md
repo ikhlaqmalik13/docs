@@ -33,8 +33,8 @@ directors or other managing authority.
 - __Application__ means the software program provided by the Company downloaded by You on any electronic device, named
 UMT LaunchPad
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to UrbanMatrix
-Technologies Private Limited, Bangalore.
+- __Company__ (referred to as either "UrbanMatrix", "the Company", "We", "Us" or "Our" in this Agreement) refers to
+UrbanMatrix Technologies Private Limited, Bangalore.
 
 - __Country__ refers to: India
 
@@ -68,8 +68,8 @@ UMT LaunchPad does not collect Your UAV data in any way.
 
 #### Personal Data
 
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used
-to contact or identify You. Personally identifiable information may include, but is not limited to:
+While using UMT LaunchPad, We may ask You to provide Us with certain personally identifiable information that can be
+used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Email address
 - First name and last name
@@ -79,21 +79,16 @@ to contact or identify You. Personally identifiable information may include, but
 
 Usage Data is collected automatically when using the Service.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type,
-browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those
-pages, unique device identifiers and other diagnostic data.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), the type of mobile
+device You use, Your mobile device unique ID, Your mobile operating system, crash reports of our Service, the screens of
+our Service that You visit, the time and date of Your visit, the time spent on those screens, unique device identifiers
+and other diagnostic data.
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including,
-but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile
-device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other
-diagnostic data.
-
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by
-or through a mobile device.
+We may also collect information that Your mobile device sends whenever You visit our Service.
 
 ### Use of Your Personal Data
 
-The Company may use Personal Data for the following purposes:
+UrbanMatrix may use Personal Data for the following purposes:
 
 - __To provide and maintain our Service__, including to monitor the usage of our Service.
 
@@ -146,22 +141,22 @@ such information may be viewed by all users and may be publicly distributed outs
 
 ### Retention of Your Personal Data
 
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy
+UrbanMatrix will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy
 Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for
 example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal
 agreements and policies.
 
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter
+UrbanMatrix will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter
 period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service,
 or We are legally obligated to retain this data for longer time periods.
 
 ### Transfer of Your Personal Data
 
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with
+UrbanMatrix will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with
 this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there
 are adequate controls in place including the security of Your data and other personal information.
 
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where
+Your information, including Personal Data, is processed at UrbanMatrix's operating offices and in any other places where
 the parties involved in the processing are located. It means that this information may be transferred to — and
 maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the
 data protection laws may differ than those from Your jurisdiction.
@@ -186,12 +181,12 @@ do so.
 
 #### Business Transactions
 
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will
+If UrbanMatrix is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will
 provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
 #### Law enforcement
 
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or
+Under certain circumstances, UrbanMatrix may be required to disclose Your Personal Data if required to do so by law or
 in response to valid requests by public authorities (e.g. a court or a government agency).
 
 #### Other legal requirements
