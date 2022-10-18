@@ -22,15 +22,15 @@ Given below is the example of how the status bar will look when the drone is  co
 
 ### Flight Modes
 
-The first parameter is flight mode, in the above picture it is shown as **Hold**.
+The first parameter is flight mode, in the above picture it is shown as `Hold`.
 
 Given below are some of the flight modes available:
 
-- **Hold**: It is a flight mode where the drone just keeps hovering at its position where the last command was issued
-and does not move around. It is liked the drone is glued to that particular spot in mid air.
+- `Hold`: It is a flight mode where the drone just keeps hovering at its position where the last command was issued and
+    does not move around. It is liked the drone is glued to that particular spot in mid air.
 
-- **POSCTL**: Stands for position control. When there are enough satellites connected with the drone GPS let us say a
-    minimum of 10, the left switch on the transmitter can be toggled to POSCTL mode. 
+- `POSCTL`: Stands for position control. When there are enough satellites connected with the drone GPS let us say a
+    minimum of 10, the left switch on the transmitter can be toggled to `POSCTL` mode. 
 
     In this mode the altitude of the drone and position of the drone are fixed until the user gives inputs using the
     sticks on the transmitter to move from its place.
@@ -38,14 +38,14 @@ and does not move around. It is liked the drone is glued to that particular spot
     Note: This is the very same mode in which automated missions are performed, so always check if the transmitter is
     put in POSCTL before executing any automated mission.
 
-- **ALTCTL**: Stands for altitude control. In this mode the drones altitude is fixed and its keeps moving in that
-    altitude as it does not use satellites. Therefore even a tiny gust of wind can quickly alter the drones position.
+- `ALTCTL`: Stands for altitude control. In this mode the drones altitude is fixed and its keeps moving in that altitude
+    as it does not use satellites. Therefore even a tiny gust of wind can quickly alter the drones position.
 
     Note: The pilot should always be focused on the drone when flying in this mode.
 
-- **Mission**: This is the flight mode that will be shown when the drone is performing an automated mission.
+- `Mission`: This is the flight mode that will be shown when the drone is performing an automated mission.
 
-- **RTL**: This is the flight mode that will be shown when the drone is performing a return to launch.
+- `RTL`: This is the flight mode that will be shown when the drone is performing a return to launch.
 
     Note: RTL can be manually triggered by the pilot from the transmitter or remotely from the UMT Console, or
     automatically when the battery percentage touches 15%.
