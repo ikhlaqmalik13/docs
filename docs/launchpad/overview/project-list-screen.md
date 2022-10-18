@@ -39,4 +39,6 @@ The blue button with three horizontal white lines represents the menu button.
 
 ![Menu](./img/project-list-screen-menu.jpg)
 
-The two options that can be selected when you tap the menu button are the `App Setting` and `Drone Settings`.
+The two options that can be selected when you tap the menu button are the
+[`App Settings`](/docs/launchpad/settings/app-settings.md) and
+[`Drone Settings`](/docs/launchpad/settings/drone-settings.md).

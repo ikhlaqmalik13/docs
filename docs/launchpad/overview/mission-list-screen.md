@@ -60,7 +60,7 @@ menu items.
 - `Delete Project`
 - `Share Project`
 - `Import KML` (Capable of importing KMZ as well)
-- `Drone Settings`
-- `App Settings`
+- [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
+- [`App Settings`](/docs/launchpad/settings/app-settings.md)
 
 ![Menu](./img/mission-list-screen-menu.jpg)

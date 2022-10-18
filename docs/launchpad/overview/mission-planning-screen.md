@@ -21,8 +21,8 @@ Top left corner has another menu button that opens up various options which are 
 - `My Location`: Zoom into the location of the transmitter.
 - `Map Type`: Switch between satellite and normal map types. 
 - `Mission Info`: Information about the current mission.
-- `Drone Settings`
-- `App Settings`
+- [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
+- [`App Settings`](/docs/launchpad/settings/app-settings.md)
 
 
 ## Drawing Buttons
