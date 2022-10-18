@@ -4,7 +4,8 @@ sidebar_position: 3
 
 # Mission List Screen
 
-When you tap on the project that you have created then the mission list screen is opened.
+When you tap on a project in the [Project List Screen](./project-list-screen.md) then the Mission List Screen gets
+opened.
 
 ![Mission List Screen](./img/mission-list-screen-intro.jpg)
 

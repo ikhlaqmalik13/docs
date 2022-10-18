@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # Install
 
-
 ## Finding the application
+
 LaunchPad is currently available only for Android devices. It can be found on the Google Play Store
 
 ![Google Play Store](./img/install-play-store.jpg)
