@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Project List Screen
 
-![Project List Screen](img/project-list-screen-intro.jpg)
+![Project List Screen](./img/project-list-screen-intro.jpg)
 
 The above screen will be displayed right after the user provides access to all the required permissions. 
 
@@ -17,11 +17,11 @@ For example, a project can be created separately for a survey at a specific area
 autonomous missions for that particular area. Another project can contain only missions for a survey in some Mumbai
 area.
 
-![Create Project](img/project-list-screen-create-project.jpg)
+![Create Project](./img/project-list-screen-create-project.jpg)
 
 The `Enter Project Title` dialog will appear when you tap the `Create Project` button.
 
-![Invalid Title](img/project-list-screen-invalid-title.jpg)
+![Invalid Title](./img/project-list-screen-invalid-title.jpg)
 
 You can name the project using any combination of alphabets and numbers only, no special characters are allowed in the
 naming of the project. An invalid title error as shown in the above image will be displayed. Examples of some special
@@ -37,6 +37,6 @@ If you want to fly the drone manually this option must be selected.
 
 The blue button with three horizontal white lines represents the menu button.
 
-![Menu](img/project-list-screen-menu.jpg)
+![Menu](./img/project-list-screen-menu.jpg)
 
 The two options that can be selected when you tap the menu button are the `App Setting` and `Drone Settings`.

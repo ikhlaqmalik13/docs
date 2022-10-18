@@ -11,11 +11,11 @@ corner of the application.
 
 Given below is the example of how the status bar will look when the drone is not connected to LaunchPad.
 
-![Not Connected](img/status-bar-not-connected.jpg)
+![Not Connected](./img/status-bar-not-connected.jpg)
 
 Given below is the example of how the status bar will look when the drone is  connected to LaunchPad.
 
-![Connected](img/status-bar-connected.jpg)
+![Connected](./img/status-bar-connected.jpg)
 
 
 ## Components (from left to right)
@@ -54,7 +54,7 @@ Given below are some of the flight modes available:
 
 Note: This feature is only available to UMT drone or MatrixCC users.
 
-![LTE](img/status-bar-lte.jpg)
+![LTE](./img/status-bar-lte.jpg)
 
 The third icon from the left which can be seen in our cellphones represents exactly the same thing in the transmitter as
 well which is the mobile network strength symbol. 
@@ -69,7 +69,7 @@ transmitted to UMT Console and viewed anywhere in the world.
 
 ### Satellites Connectivity.
 
-![Satellites](img/status-bar-satellites.jpg)
+![Satellites](./img/status-bar-satellites.jpg)
 
 The tiny number right beside the symbol which looks like a satellite depicts the number of satellites connected to the
 drone at the moment.
@@ -79,7 +79,7 @@ connected to the drone.
 
 ### Battery percentage & Its corresponding Voltage
 
-![Battery](img/status-bar-battery.jpg)
+![Battery](./img/status-bar-battery.jpg)
 
 The last status you need to keep track of is the battery voltage. 
 

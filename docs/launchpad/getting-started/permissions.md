@@ -27,7 +27,7 @@ The user has three options to select from:
 
 ## Media Permission
 
-![Media Permission](img/permissions-media.jpg)
+![Media Permission](./img/permissions-media.jpg)
 
 The above image is the second permission that is required by the application which is access to the photos and media. 
 

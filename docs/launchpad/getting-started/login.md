@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Login
 
-![Login Screen](img/login-login-screen.jpg)
+![Login Screen](./img/login-login-screen.jpg)
 
 The above screen will be displayed when you install and launch the application for the first time. 
 
