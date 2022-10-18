@@ -4,32 +4,39 @@ sidebar_position: 2
 
 # Project List Screen
 
-![Project](img/project-list-screen-intro.jpg)
+![Project List Screen](img/project-list-screen-intro.jpg)
 
 The above screen will be displayed right after the user provides access to all the required permissions. 
 
-There are three options on the bottom of the screen.
 
-- `Create Project`: Lets you create a particular project which can contain several missions. 
+## Create Project
 
-    For example, a project can be created separately for a survey at a specific area in Delhi and it can contain various
-    autonomous missions for that particular area. Another project can contain only missions for a survey in some Mumbai
-    area.
+Lets you create a particular project which can contain several missions. 
 
-    ![Create Project](img/project-list-screen-create-project.jpg)
+For example, a project can be created separately for a survey at a specific area in Delhi and it can contain various
+autonomous missions for that particular area. Another project can contain only missions for a survey in some Mumbai
+area.
 
-    The `Enter Project Title` dialog will appear when you tap the `Create Project` button.
+![Create Project](img/project-list-screen-create-project.jpg)
 
-    ![Invalid Title](img/project-list-screen-invalid-title.jpg)
+The `Enter Project Title` dialog will appear when you tap the `Create Project` button.
 
-    You can name the project using any combination of alphabets and numbers only, no special characters are allowed in
-    the naming of the project. An invalid title error as shown in the above image will be displayed. Examples of some
-    special characters are "!@#$%^&*" 
+![Invalid Title](img/project-list-screen-invalid-title.jpg)
 
-- `Manual Flight`: If you want to fly the drone manually this option must be selected.
+You can name the project using any combination of alphabets and numbers only, no special characters are allowed in the
+naming of the project. An invalid title error as shown in the above image will be displayed. Examples of some special
+characters are "!@#$%^&*" 
 
-- `Menu`: The Blue button with three horizontal white lines represents the menu button.
 
-    ![Menu](img/project-list-screen-menu.jpg)
+## Manual Flight
 
-    The two options that can be selected when you tap the menu button are the `App Setting` and `Drone Settings`.
+If you want to fly the drone manually this option must be selected.
+
+
+## Menu
+
+The blue button with three horizontal white lines represents the menu button.
+
+![Menu](img/project-list-screen-menu.jpg)
+
+The two options that can be selected when you tap the menu button are the `App Setting` and `Drone Settings`.
