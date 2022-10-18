@@ -52,7 +52,8 @@ image below.
 
 ## Menu
 
-As you can see there is a menu button on the bottom right corner of this screen. When tapped on, it shows the following menu items.
+As you can see there is a menu button on the bottom right corner of this screen. When tapped on, it shows the following
+menu items.
 
 - `Rename Project`
 - `Delete Project`
