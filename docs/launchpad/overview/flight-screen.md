@@ -6,7 +6,8 @@ sidebar_position: 5
 
 ![Progress](./img/flight-screen-intro.jpg)
 
-This is the screen which provides the interface to takeoff, conduct in-flight operations and land the drone. Flights can be conducted in two ways:
+This is the screen which provides the interface to takeoff, conduct in-flight operations and land the drone. Flights can
+be conducted in two ways:
 
 - Manual flight
 - Automated mission flight
@@ -31,21 +32,25 @@ Present at the bottom right part of the screen are present some important in-fli
 
 ## Camera
 
-The video stream can be viewed in the camera present at the bottom left part of the screen. You can click it to expand the camera and replace the map with it.
+The video stream can be viewed in the camera present at the bottom left part of the screen. You can click it to expand
+the camera and replace the map with it.
 
 ![Camera](./img/flight-screen-camera.jpg)
 
 ### Take Photo Button
 
-The red colored button at the mid right part of the camera screen can be used to take a photo from the drone. When clicked, two actions take place:
+The red colored button at the mid right part of the camera screen can be used to take a photo from the drone. When
+clicked, two actions take place:
 
-- If the camera on the drone is configured to take commands from the flight controller to take photos, then it will take a photo and save in on the camera's SD card.
+- If the camera on the drone is configured to take commands from the flight controller to take photos, then it will take
+  a photo and save in on the camera's SD card.
 - A screen shot of the camera is taken and saved on the transmitter/phone.
 
 
 ## Upload Button
 
-The icon below the menu button on the top left corner of the screen is the mission upload button. The preflight checks will be conducted shown when you tap it.
+The icon below the menu button on the top left corner of the screen is the mission upload button. The preflight checks
+will be conducted shown when you tap it.
 
 ![Preflight 1](./img/flight-screen-preflight-1.jpg)
 
@@ -80,12 +85,14 @@ The drone will takeoff as shown in the image given below.
 
 ![Takeoff](./img/flight-screen-takeoff.jpg)
 
-You can clearly see the drone on the map and the distance from the home/takeoff location and its altitude. The red color represents the front side of the drone.
+You can clearly see the drone on the map and the distance from the home/takeoff location and its altitude. The red color
+represents the front side of the drone.
 
 
 ## Return to Launch
 
-When in air, the mission upload button becomes the RTL button. You can tap it to access the `Slide to RTL` dialog as shown in the image below.  
+When in air, the mission upload button becomes the RTL button. You can tap it to access the `Slide to RTL` dialog as
+shown in the image below.  
 
 ![RTL](./img/flight-screen-rtl.jpg)
 
