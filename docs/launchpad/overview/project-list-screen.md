@@ -30,7 +30,8 @@ characters are "!@#$%^&*"
 
 ## Manual Flight
 
-If you want to fly the drone manually this option must be selected.
+If you want to fly the drone manually this option must be selected. This will take you to the
+[Flight Screen](./flight-screen.md).
 
 
 ## Menu
