@@ -25,7 +25,7 @@ The `Enter Project Title` dialog will appear when you tap the `Create Project` b
 
 You can name the project using any combination of alphabets and numbers only, no special characters are allowed in the
 naming of the project. An invalid title error as shown in the above image will be displayed. Examples of some special
-characters are "!@#$%^&*" 
+characters are `!@#$%^&*"'` 
 
 
 ## Manual Flight

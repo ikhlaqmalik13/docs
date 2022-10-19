@@ -31,5 +31,5 @@ The user has three options to select from:
 
 The above image is the second permission that is required by the application which is access to the photos and media. 
 
-By granting this permission you will be able to import KML and KMZ files into the application. This will be further
+By granting this permission you will be able to import **KML** and **KMZ** files into the application. This will be further
 explained in the coming pages. Also, you will be able to store the compressed versions of the drone camera pictures.

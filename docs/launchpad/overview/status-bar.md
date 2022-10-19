@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The the status bar shows important parameters one should always check after switching on the transmitter and drone.
 
-Note: Only when the drone and transmitter are connected to one another will the data be displayed on the top right
+Only when the drone and transmitter are connected to one another will the data be displayed on the top right
 corner of the application.
 
 Given below is the example of how the status bar will look when the drone is not connected to LaunchPad.
@@ -20,39 +20,39 @@ Given below is the example of how the status bar will look when the drone is  co
 
 ## Components (from left to right)
 
-### Flight Modes
+### Flight mode
 
 The first parameter is flight mode, in the above picture it is shown as `Hold`.
 
 Given below are some of the flight modes available:
 
 - `Hold`: It is a flight mode where the drone just keeps hovering at its position where the last command was issued and
-    does not move around. It is liked the drone is glued to that particular spot in mid air.
+  does not move around. It is liked the drone is glued to that particular spot in mid air.
 
 - `POSCTL`: Stands for position control. When there are enough satellites connected with the drone GPS let us say a
-    minimum of 10, the left switch on the transmitter can be toggled to `POSCTL` mode. 
+  minimum of 10, the left switch on the transmitter can be toggled to `POSCTL` mode. 
 
-    In this mode the altitude of the drone and position of the drone are fixed until the user gives inputs using the
-    sticks on the transmitter to move from its place.
+  In this mode the altitude of the drone and position of the drone are fixed until the user gives inputs using the
+  sticks on the transmitter to move from its place.
 
-    Note: This is the very same mode in which automated missions are performed, so always check if the transmitter is
-    put in POSCTL before executing any automated mission.
+  This is the very same mode in which automated missions are performed, so always check if the transmitter is
+  put in POSCTL before executing any automated mission.
 
 - `ALTCTL`: Stands for altitude control. In this mode the drones altitude is fixed and its keeps moving in that altitude
-    as it does not use satellites. Therefore even a tiny gust of wind can quickly alter the drones position.
+  as it does not use satellites. Therefore even a tiny gust of wind can quickly alter the drones position.
 
-    Note: The pilot should always be focused on the drone when flying in this mode.
+  The pilot should always be focused on the drone when flying in this mode.
 
 - `Mission`: This is the flight mode that will be shown when the drone is performing an automated mission.
 
 - `RTL`: This is the flight mode that will be shown when the drone is performing a return to launch.
 
-    Note: RTL can be manually triggered by the pilot from the transmitter or remotely from the UMT Console, or
-    automatically when the battery percentage touches 15%.
+  RTL can be manually triggered by the pilot from the transmitter or remotely from the UMT Console, or
+  automatically when the battery percentage touches 15%.
 
-### LTE Signal Strength
+### LTE signal strength
 
-Note: This feature is only available to UMT drone or MatrixCC users.
+*This feature is only available to UMT drone or MatrixCC users.*
 
 ![LTE](./img/status-bar-lte.jpg)
 
@@ -67,7 +67,7 @@ there is good 4G network connectivity. Though this is **not required** to fly th
 parameters of the drone such as altitude, speed, etc., along with the live video feed of the drone camera will be
 transmitted to UMT Console and viewed anywhere in the world.  
 
-### Satellites Connectivity.
+### Satellite connectivity
 
 ![Satellites](./img/status-bar-satellites.jpg)
 
@@ -77,7 +77,7 @@ drone at the moment.
 For example, in case of the image right above the number displayed is 10. meaning that 10 satellites are currently
 connected to the drone.
 
-### Battery percentage & Its corresponding Voltage
+### Battery percentage and voltage
 
 ![Battery](./img/status-bar-battery.jpg)
 
