@@ -6,12 +6,11 @@ sidebar_position: 1
 
 ## Finding the Application
 
-LaunchPad is currently available **only for Android** devices. It can be found on the **Google Play Store**.
+LaunchPad is currently available **only for Android** devices. It can be found on the Google [Play Store](https://play.google.com/store/apps/details?id=com.urbanmatrix.android.launchpad).
 
 ![Google Play Store](./img/install-play-store.jpg)
 
-Open the Google Play Store and type **umt launchpad** in the search bar. **UMT LaunchPad** should come up as the first
-result.
+Else, you can open the Google Play Store and type **umt launchpad** in the search bar. **UMT LaunchPad** should come up as the first result.
 
 
 ## Installing the Application
