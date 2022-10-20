@@ -64,7 +64,7 @@ There are 6 preflight check that need to ticked so that you can launch the drone
 - `GPS Satellites`: The GPS is receiving data from enough satellites to estimate the position correctly.
 - `Battery Level`: Whether there is enough battery to execute the mission.
 - `Mission Uploaded`: Indicates if the mission has been uploaded to the drone.
-- `NPNT Approved`: Currently disabled. This will be enabled once the no permission no takeoff protocol is in place.
+- `NPNT Approved`: Currently disabled. This will be enabled once the No Permission No Takeoff protocol is in place.
 
 ### RTL Altitude
 

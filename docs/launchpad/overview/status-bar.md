@@ -4,10 +4,7 @@ sidebar_position: 1
 
 # Status Bar
 
-The the status bar shows important parameters one should always check after switching on the transmitter and drone.
-
-Only when the drone and transmitter are connected to one another will the data be displayed on the top right
-corner of the application.
+The the status bar shows important parameters one should always check after switching on the transmitter and drone. Only when the drone and transmitter are connected to one another will the data be displayed on the top right corner of the application.
 
 Given below is the example of how the status bar will look when the drone is not connected to LaunchPad.
 

@@ -29,7 +29,7 @@ Top left corner has another menu button that opens up various options which are 
 
 ![Drawing Buttons](./img/mission-planning-screen-intro.jpg)
 
-There are 5 other options right below the menu button. They are (from to to bottom):
+There are 5 other options right below the menu button. They are (from top to bottom):
 
 - `Single tap Geo-fence`
 - `Add/Remove Vertices`
