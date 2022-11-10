@@ -9,13 +9,13 @@
     source ~/.bashrc
     ```
 
-2. Install the latest LTS version of npm.
+2. Install the latest LTS version of npm
     
     ```bash
     nvm install v18.12.1
     ```
 
-3. Install dependencies.
+3. Install dependencies
     
     ```bash
     npm install
@@ -26,3 +26,17 @@
 ```bash
 npm run start
 ```
+
+## Tools
+
+1. To resize images, use `imagemagick` on Linux
+    
+    ```bash
+    sudo apt install imagemagick-6.q16
+    ```
+
+    Resize all images in a folder
+
+    ```bash
+    convert "*.jpg[800x]" -set filename:base "%[basename]" "%[filename:base].jpg"
+    ```
