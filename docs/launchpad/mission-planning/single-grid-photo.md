@@ -4,10 +4,9 @@ sidebar_position: 1
 
 # Single Grid Photo Mission
 
-
 ## Create Mission
 
-Select the `Single Grid - Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create
+Select the `Single Grid Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create
 the mission.
 
 ![Create](img/single-grid-photo-create.jpg)
@@ -43,7 +42,7 @@ You can add or edit vertices as mentioned in [Mission Planning Screen](../overvi
 
 ## Parameter Selection
 
-The following parameters are available for a `Single Grid - Photo` mission:
+The following parameters are available for a `Single Grid Photo` mission:
 
 - `Altitude`
 - `Speed`
@@ -58,7 +57,7 @@ The following parameters are available for a `Single Grid - Photo` mission:
 
 ![Parameters](img/single-grid-photo-params.jpg)
 
-Based on the parameters selected, the following values is calculated and displayed:
+Based on the parameters selected, the following values are calculated and displayed:
 
 - `Polygon Area`
 - `GSD`: Ground sampling distance.
