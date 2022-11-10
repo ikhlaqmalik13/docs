@@ -72,3 +72,7 @@ Based on the parameters selected, the following values is calculated and display
 The factors deciding the camera interval are `Altitude`, `Speed`, `Front Overlap`. Always make sure that the combination
 of the above parameters results in a `Camera Interval` which is at least **2.5 seconds** (this value depends on the
 camera type), otherwise there's a chance that the drone may miss photos.
+
+The red color of the `Photo Interval` value shows that it is too less.
+
+Once done, click on the `Done` button to move on to the [Flight Screen](../overview/flight-screen.md).
