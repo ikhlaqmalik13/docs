@@ -46,6 +46,5 @@ Find more details about fleet management [here](/docs/matrix-console/features/fl
 
 - Details of all pilots will be displayed here. 
 - This data can be sorted on the basis of active and inactive pilot accounts. 
-![Pilots](img/pilots.png)
-- Selecting a pilot's profile will display all their information and the list of drones they have access to.
 ![Pilot Profile](img/pilot-profile.png)
+- Selecting a pilot's profile will display all their information and the list of drones they have access to.

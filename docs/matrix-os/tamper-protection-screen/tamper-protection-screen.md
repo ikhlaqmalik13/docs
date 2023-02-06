@@ -8,6 +8,8 @@ sidebar_position: 1
 - Your tamper proof module must have a switch soldered to the correct pins [S1 & S2] 
 - Please refer to the first time setup to open the [MatrixOS Dashboard](/docs/matrix-os/getting-started/first-time-setup.md)
 
+*Ensure that you RESTART the MatrixCC if you enable/disable any feature.*
+
 ## Enable Hardware Tamper monitoring
 
 - Click on 'Enable Hardware Tamper monitoring' 
@@ -28,6 +30,6 @@ sidebar_position: 1
 
 ### Test 
 
-- Hold the switch in your hand and enable the tamper monitoring option. The status must be 'untampered'
+- Press the switch and enable the tamper monitoring option. The status must be 'untampered'
 - Release the switch and check if the status changes to 'tampered' 
 - Click on reset 

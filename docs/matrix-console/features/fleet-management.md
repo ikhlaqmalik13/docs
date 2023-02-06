@@ -7,6 +7,7 @@ sidebar_position: 6
 ## View All
 
 - Selecting "View All" will zoom out the map to show all the registered drones on a single screen.
+- A GREEN dot on a drone's name indicates that the drone is **online**, while a RED dot signifies that it is currently **offline.**
 
 ![Fleet Management](img/view-all.gif)
 
