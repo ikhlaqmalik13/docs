@@ -38,7 +38,7 @@ You can add or edit waypoints as mentioned in [Mission Planning Screen](../overv
 
 ## Parameter Selection
 
-The following parameters are available for a `Single Grid Photo` mission:
+The following parameters are available for a `Line Photo` mission:
 
 - `Altitude`
 - `Speed`
@@ -52,7 +52,7 @@ The following parameters are available for a `Single Grid Photo` mission:
 
 Based on the parameters selected, the following values are calculated and displayed:
 
-- `Total photos`
+- `Total Photos`
 - `Flight Distance`
 - `Flight Duration`
 
