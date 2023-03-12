@@ -41,9 +41,8 @@ You can add or edit waypoints as mentioned in [Mission Planning Screen](../overv
 The following parameters are available for a `Line Video` mission:
 
 - `Altitude`
+- `RTL Altitude`
 - `Speed`
-
-![Parameters](img/line-video-params.jpg)
 
 Based on the parameters selected, the following values are calculated and displayed:
 
@@ -51,6 +50,6 @@ Based on the parameters selected, the following values are calculated and displa
 - `Flight Distance`
 - `Flight Duration`
 
-![Data](img/line-video-data.jpg)
+![Parameters and Data](img/line-video-params.jpg)
 
 Once done, click on the `Done` button to move on to the [Flight Screen](../overview/flight-screen.md).

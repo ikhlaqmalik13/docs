@@ -41,6 +41,7 @@ You can add or edit waypoints as mentioned in [Mission Planning Screen](../overv
 The following parameters are available for a `Line Photo` mission:
 
 - `Altitude`
+- `RTL Altitude`
 - `Speed`
 - `Camera`: Available camera types.
 - `Photo Interval`: Time interval between the images.

@@ -41,15 +41,15 @@ You can add or edit waypoints as mentioned in [Mission Planning Screen](../overv
 The following parameters are available for a `Line Recon` mission:
 
 - `Altitude`
+- `RTL Altitude`
 - `Speed`
-
-![Parameters](img/line-recon-params.jpg)
 
 Based on the parameters selected, the following values are calculated and displayed:
 
+- `Total Waypoints`
 - `Flight Distance`
 - `Flight Duration`
 
-![Data](img/line-recon-data.jpg)
+![Parameters and Data](img/line-recon-params.jpg)
 
 Once done, click on the `Done` button to move on to the [Flight Screen](../overview/flight-screen.md).
