@@ -45,6 +45,7 @@ You can add or edit vertices as mentioned in [Mission Planning Screen](../overvi
 The following parameters are available for a `Single Grid Photo` mission:
 
 - `Altitude`
+- `RTL Altitude`
 - `Speed`
 - `Camera`: Available camera types.
 - `Front Overlap`: Percentage longitudinal overlap between the images.
@@ -61,10 +62,10 @@ Based on the parameters selected, the following values are calculated and displa
 
 - `Polygon Area`
 - `GSD`: Ground sampling distance.
+- `Total Photos`: Estimated photos count.
 - `Photo Interval`: Time interval between two consecutive photos.
 - `Flight Distance`
 - `Flight Duration`
-- `Total Waypoints`: Estimated photos count.
 
 ![Data](img/single-grid-photo-data.jpg)
 
