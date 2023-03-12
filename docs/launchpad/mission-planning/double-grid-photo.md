@@ -7,14 +7,9 @@ sidebar_position: 2
 ## Create Mission
 
 Select the `Double Grid Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create
-the mission.
+the mission. This will open the [Mission Planning Screen](../overview/mission-planning-screen.md).
 
 ![Create](img/double-grid-photo-create.jpg)
-
-You are then taken to the planning screen. Read the [Mission Planning Screen](../overview/mission-planning-screen.md)
-section to learn the basics of mission planning.
-
-![Overview](img/double-grid-photo-overview.jpg)
 
 
 ## Drawing

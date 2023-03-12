@@ -7,14 +7,9 @@ sidebar_position: 5
 ## Create Mission
 
 Select the `Line Recon` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create the
-mission.
+mission. This will open the [Mission Planning Screen](../overview/mission-planning-screen.md).
 
 ![Create](img/line-recon-create.jpg)
-
-You are then taken to the planning screen. Read the [Mission Planning Screen](../overview/mission-planning-screen.md)
-section to learn the basics of mission planning.
-
-![Overview](img/line-recon-overview.jpg)
 
 
 ## Drawing
