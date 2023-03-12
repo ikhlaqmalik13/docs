@@ -3,7 +3,6 @@ sidebar_position: 4
 ---
 
 # Line Video Mission
-<<<<<<< HEAD
 
 ## Create Mission
 
@@ -55,5 +54,3 @@ Based on the parameters selected, the following values are calculated and displa
 ![Data](img/line-video-data.jpg)
 
 Once done, click on the `Done` button to move on to the [Flight Screen](../overview/flight-screen.md).
-=======
->>>>>>> origin/main
