@@ -8,7 +8,6 @@ Last updated: September 30, 2022
 
 Please read these terms and conditions carefully before using Our Service.
 
-
 ## Interpretation and Definitions
 
 ### Interpretation
@@ -50,7 +49,6 @@ provided by a third-party that may be displayed, included or made available by t
 - __You__ means the individual accessing or using the Service, or the Company, or other legal entity on behalf of which
 such individual is accessing or using the Service, as applicable.
 
-
 ## Safe UAV operations
 
 UrbanMatrix does not warrant its products for any unauthorized use without adhering to the local authority’s regulations
@@ -64,7 +62,6 @@ Flying a UAV exposes consumers to a wide range of liability, and that’s especi
 experience. It’s possible that man-handling your drone could malfunction and crash into someone’s property, causing
 damage to their home or their car, for instance. For that reason, it is suggested to purchase drone liability insurance
 coverage.
-
 
 ## Acknowledgment
 
@@ -84,7 +81,6 @@ of UrbanMatrix. Our Privacy Policy describes Our policies and procedures on the 
 personal information when You use the Application or the Website and tells You about Your privacy rights and how the law
 protects You. Please read Our Privacy Policy carefully before using Our Service.
 
-
 ## Links to Other Websites
 
 Our Service may contain links to third-party web sites or services that are not owned or controlled by UrbanMatrix.
@@ -97,14 +93,12 @@ of or reliance on any such content, goods or services available on or through an
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services
 that You visit.
 
-
 ## Termination
 
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever,
 including without limitation if You breach these Terms and Conditions.
 
 Upon termination, Your right to use the Service will cease immediately.
-
 
 ## Limitation of Liability
 
@@ -122,7 +116,6 @@ has been advised of the possibility of such damages and even if the remedy fails
 Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential
 damages, which means that some of the above limitations may not apply. In these states, each party's liability will be
 limited to the greatest extent permitted by law.
-
 
 ## "AS IS" and "AS AVAILABLE" Disclaimer
 
@@ -148,31 +141,26 @@ rights of a consumer, so some or all of the above exclusions and limitations may
 the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under
 applicable law.
 
-
 ## Governing Law
 
 The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your
 use of the Application may also be subject to other local, state, national, or international laws.
-
 
 ## Disputes Resolution
 
 If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by
 contacting UrbanMatrix.
 
-
 ## For European Union (EU) Users
 
 If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which
 you are resident in.
-
 
 ## United States Legal Compliance
 
 You represent and warrant that (i) You are not located in a country that is subject to the United States government
 embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You
 are not listed on any United States government list of prohibited or restricted parties.
-
 
 ## Severability and Waiver
 
@@ -188,12 +176,10 @@ Except as provided herein, the failure to exercise a right or to require perform
 shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall
 the waiver of a breach constitute a waiver of any subsequent breach.
 
-
 ## Translation Interpretation
 
 These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that
 the original English text shall prevail in the case of a dispute.
-
 
 ## Changes to These Terms and Conditions
 
@@ -203,7 +189,6 @@ a material change will be determined at Our sole discretion.
 
 By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised
 terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
-
 
 ## Contact Us
 

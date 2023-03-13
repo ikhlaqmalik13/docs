@@ -11,7 +11,6 @@ the mission. This will open the [Mission Planning Screen](../overview/mission-pl
 
 ![Create](img/double-grid-photo-create.jpg)
 
-
 ## Drawing
 
 Ensure that the `Add/Remove Vertices` button has a negative sign. Then tap anywhere on the screen a marker will be
@@ -20,7 +19,7 @@ displayed which marks the first vertex of the polygon.
 ![Polygon 1](img/double-grid-photo-polygon-1.jpg)
 
 Tap where you want to create the second vertex of the polygon. The blue line joining the two points is the boundary of
-the polygon. 
+the polygon.
 
 ![Polygon 2](img/double-grid-photo-polygon-2.jpg)
 
@@ -33,7 +32,6 @@ Finally, tap on the first vertex to complete the polygon.
 ![Polygon 4](img/double-grid-photo-polygon-4.jpg)
 
 You can add or edit vertices as mentioned in [Mission Planning Screen](../overview/mission-list-screen.md) section.
-
 
 ## Parameter Selection
 

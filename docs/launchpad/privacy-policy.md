@@ -12,7 +12,6 @@ You use the Service and tells You about Your privacy rights and how the law prot
 We use Your data to provide and improve the Service. By using the Service, You agree to the collection and use of
 information in accordance with this Privacy Policy.
 
-
 ## Interpretation and Definitions
 
 ### Interpretation
@@ -56,7 +55,6 @@ infrastructure itself (for example, the duration of a page visit).
 
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which
 such individual is accessing or using the Service, as applicable.
-
 
 ## Collecting and Using Your Personal Data
 
@@ -116,7 +114,7 @@ among the assets transferred.
 
 - __For other purposes__: We may use Your information for other purposes, such as data analysis, identifying usage
 trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products,
-services, marketing and your experience. 
+services, marketing and your experience.
 
 We may share Your personal information in the following situations:
 
@@ -135,7 +133,7 @@ or other companies that We control or that are under common control with Us.
 services or promotions.
 
 - __With other users:__ when You share personal information or otherwise interact in the public areas with other users,
-such information may be viewed by all users and may be publicly distributed outside. 
+such information may be viewed by all users and may be publicly distributed outside.
 
 - __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
 
@@ -205,7 +203,6 @@ The security of Your Personal Data is important to Us, but remember that no meth
 method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your
 Personal Data, We cannot guarantee its absolute security.
 
-
 ## Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information
@@ -216,7 +213,6 @@ Personal Data, please contact Us. If We become aware that We have collected Pers
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a
 parent, We may require Your parent's consent before We collect and use that information.
 
-
 ## Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You
@@ -225,7 +221,6 @@ visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party
 sites or services.
-
 
 ## Changes to this Privacy Policy
 
@@ -237,7 +232,6 @@ update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective
 when they are posted on this page.
-
 
 ## Contact Us
 
