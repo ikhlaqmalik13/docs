@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Status Bar
 
-The the status bar shows important parameters one should always check after switching on the transmitter and drone. Only when the drone and transmitter are connected to one another will the data be displayed on the top right corner of the application.
+The the status bar shows important parameters one should always check after switching on the transmitter and drone. Only
+when the drone and transmitter are connected to one another, the data will be displayed on the top right corner of the
+application.
 
 Given below is the example of how the status bar will look when the drone is not connected to LaunchPad.
 
@@ -13,7 +15,6 @@ Given below is the example of how the status bar will look when the drone is not
 Given below is the example of how the status bar will look when the drone is  connected to LaunchPad.
 
 ![Connected](./img/status-bar-connected.jpg)
-
 
 ## Components (from left to right)
 
@@ -26,8 +27,7 @@ Given below are some of the flight modes available:
 - `Hold`: It is a flight mode where the drone just keeps hovering at its position where the last command was issued and
   does not move around. It is liked the drone is glued to that particular spot in mid air.
 
-- `POSCTL`: Stands for position control. When there are enough satellites connected with the drone GPS let us say a
-  minimum of 10, the left switch on the transmitter can be toggled to `POSCTL` mode. 
+- `POSCTL`: Stands for position control. When there are enough satellites connected with the drone GPS let us say a minimum of 10, the left switch on the transmitter can be toggled to `POSCTL` mode.
 
   In this mode the altitude of the drone and position of the drone are fixed until the user gives inputs using the
   sticks on the transmitter to move from its place.
@@ -54,7 +54,7 @@ Given below are some of the flight modes available:
 ![LTE](./img/status-bar-lte.jpg)
 
 The third icon from the left which can be seen in our cellphones represents exactly the same thing in the transmitter as
-well which is the mobile network strength symbol. 
+well which is the mobile network strength symbol.
 
 From the above image it is clearly seen that there is no 4G Signal connectivity are the symbol is not solid filled
 white.
@@ -78,7 +78,7 @@ connected to the drone.
 
 ![Battery](./img/status-bar-battery.jpg)
 
-The last status you need to keep track of is the battery voltage. 
+The last status you need to keep track of is the battery voltage.
 
 Never try to fly a drone that does not have enough charge. As it can lead to the mission being incomplete due to RTL
 being triggered because of low battery. This can degrade the battery and reduce the number of life cycles it can

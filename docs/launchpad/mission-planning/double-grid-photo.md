@@ -7,15 +7,9 @@ sidebar_position: 2
 ## Create Mission
 
 Select the `Double Grid Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create
-the mission.
+the mission. This will open the [Mission Planning Screen](../overview/mission-planning-screen.md).
 
 ![Create](img/double-grid-photo-create.jpg)
-
-You are then taken to the planning screen. Read the [Mission Planning Screen](../overview/mission-planning-screen.md)
-section to learn the basics of mission planning.
-
-![Overview](img/double-grid-photo-overview.jpg)
-
 
 ## Drawing
 
@@ -25,7 +19,7 @@ displayed which marks the first vertex of the polygon.
 ![Polygon 1](img/double-grid-photo-polygon-1.jpg)
 
 Tap where you want to create the second vertex of the polygon. The blue line joining the two points is the boundary of
-the polygon. 
+the polygon.
 
 ![Polygon 2](img/double-grid-photo-polygon-2.jpg)
 
@@ -39,12 +33,12 @@ Finally, tap on the first vertex to complete the polygon.
 
 You can add or edit vertices as mentioned in [Mission Planning Screen](../overview/mission-list-screen.md) section.
 
-
 ## Parameter Selection
 
 The following parameters are available for a `Double Grid Photo` mission:
 
 - `Altitude`
+- `RTL Altitude`
 - `Speed`
 - `Camera`: Available camera types.
 - `Front Overlap`: Percentage longitudinal overlap between the images.
@@ -61,10 +55,10 @@ Based on the parameters selected, the following values are calculated and displa
 
 - `Polygon Area`
 - `GSD`: Ground sampling distance.
+- `Total Waypoints`: Estimated photos count.
 - `Photo Interval`: Time interval between two consecutive photos.
 - `Flight Distance`
 - `Flight Duration`
-- `Total Waypoints`: Estimated photos count.
 
 ![Data](img/double-grid-photo-data.jpg)
 
