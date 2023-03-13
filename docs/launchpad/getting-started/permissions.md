@@ -15,7 +15,7 @@ options.
 - `Precise` - Ideal conditions can pinpoint you down to a meter.
 - `Approximate` - Your location can be within 100 meters.
 
-The user has three options to select from:
+Then user has three options to select from for permission usage:
 
 - `While using the app`
 - `Only this time`
