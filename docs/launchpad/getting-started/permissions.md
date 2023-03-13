@@ -21,10 +21,9 @@ The user has three options to select from:
 - `Only this time`
 - `Don't allow`
 
-
 ## Media Permission
 
-The app also requires is access to the photos and media. 
+The app also requires is access to the photos and media.
 
 ![Media Permission](./img/permissions-media.jpg)
 

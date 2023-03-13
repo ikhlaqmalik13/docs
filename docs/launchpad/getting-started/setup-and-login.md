@@ -23,7 +23,6 @@ The following connection modes are available:
 
 ![Connection Mode](./img/setup-and-login-connection-mode.jpg)
 
-
 ## Login
 
 You can login with your **Google ID** and no separate registration process is required.
@@ -32,4 +31,3 @@ If you want to use some other ID apart from your Google ID, you can also registe
 [UMT Console](https://console.urbanmatrix.co.in/login/signup/) and login using those credentials.
 
 ![Login Screen](./img/setup-and-login-login-screen.jpg)
-
