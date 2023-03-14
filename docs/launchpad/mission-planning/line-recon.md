@@ -4,6 +4,16 @@ sidebar_position: 5
 
 # Line Recon Mission
 
+Line recon drone missions, also known as linear surveillance missions, are commonly used in surveillance and
+reconnaissance applications where the drone needs to capture images or video along a specific linear feature or area,
+such as a border, a coastline, or a pipeline. In a line recon drone mission, the drone flies along a predefined flight
+path, following the linear feature. This mission is designed for automatic path following with manual payload control.
+This data obtained can then be used to monitor and detect any activity or changes along the linear feature or area. Line
+recon drone missions are particularly useful in applications such as border patrol, coastal surveillance, or
+infrastructure security, where the drone needs to continuously monitor a specific path or feature for potential threats
+or incidents.
+
+
 ## Create Mission
 
 Select the `Line Recon` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create the

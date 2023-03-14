@@ -4,6 +4,14 @@ sidebar_position: 2
 
 # Double Grid Photo Mission
 
+Double grid drone missions, also known as crosshatch or perpendicular missions, are commonly used in aerial photography
+and mapping applications where higher accuracy and resolution are required. In a double grid mission, the drone flies
+over a designated area twice, along two perpendicular flight paths, capturing images or data points at predefined
+intervals. This approach provides more overlap and redundancy in the data, allowing for more accurate and detailed 2D or
+3D maps to be created. Double grid drone missions are particularly useful for applications such as land surveying,
+construction site monitoring, and environmental monitoring where precise measurements and data are required.
+
+
 ## Create Mission
 
 Select the `Double Grid Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create

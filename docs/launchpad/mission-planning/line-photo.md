@@ -4,6 +4,15 @@ sidebar_position: 3
 
 # Line Photo Mission
 
+Line photo drone missions are commonly used in aerial photography applications where the drone needs to capture a
+continuous series of images along a specific linear feature or area, such as a pipeline, a railway, or a road. In a line
+photo drone mission, the drone flies along a predefined flight path, following the linear feature, and captures a series
+of images at predefined intervals using its camera. This data can then be used to create high-resolution orthomosaic
+maps or 3D models of the linear feature or area. Line photo drone missions are particularly useful in applications such
+as pipeline inspection, highway inspection, or construction monitoring, where precise measurements and detailed imagery
+are required.
+
+
 ## Create Mission
 
 Select the `Line Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create the

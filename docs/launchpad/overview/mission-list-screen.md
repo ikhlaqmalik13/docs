@@ -12,29 +12,15 @@ opened.
 
 ## Create Mission
 
-LaunchPad currently offers 5 different types of automated missions. As shown in the image below.
+LaunchPad currently offers 5 different types of automated missions:
+
+- [Single Grid Photo](../mission-planning/single-grid-photo.md)
+- [Double Grid Photo](../mission-planning/double-grid-photo.md)
+- [Line Photo](../mission-planning/line-photo.md)
+- [Line Video](../mission-planning/line-video.md)
+- [Line Recon](../mission-planning/line-recon.md)
 
 ![Create Mission](./img/mission-list-screen-create-mission.jpg)
-
-### Single Grid
-
-For land survey and solar inspection.
-
-### Double Grid
-
-For 3D mapping.
-
-### Line Photo
-
-For survey of long strips of land such as roadways and railways.
-
-### Line Video
-
-For surveillance.
-
-### Line Recon
-
-For surveillance and reconnaissance
 
 
 ## Map

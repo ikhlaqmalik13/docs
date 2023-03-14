@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Single Grid Photo Mission
 
+Single grid drone missions are commonly used in various applications, such as aerial photography, surveying, mapping,
+and inspection. The drone flies over a designated area and captures images or data points at predefined intervals. This
+data can then be used to create 2D or 3D maps, identify changes over time, or inspect infrastructure for damage or
+maintenance needs. Single grid drone missions are particularly useful in areas that are difficult or dangerous to access
+by foot or vehicle, and can save time and costs compared to traditional surveying methods.
+
 ## Create Mission
 
 Select the `Single Grid Photo` mission type in the [Mission List Screen](../overview/mission-list-screen.md) to create
