@@ -9,7 +9,6 @@ opened.
 
 ![Mission List Screen](./img/mission-list-screen-intro.jpg)
 
-
 ## Create Mission
 
 LaunchPad currently offers 5 different types of automated missions:
@@ -21,7 +20,6 @@ LaunchPad currently offers 5 different types of automated missions:
 - [Line Recon](../mission-planning/line-recon.md)
 
 ![Create Mission](./img/mission-list-screen-create-mission.jpg)
-
 
 ## Map
 
@@ -36,7 +34,6 @@ image below.
 
 ![Map 2](./img/mission-list-screen-map-2.jpg)
 
-
 ## Menu
 
 As you can see there is a menu button on the bottom right corner of this screen. When tapped on, it shows the following
@@ -46,7 +43,7 @@ menu items.
 - `Delete Project`
 - `Share Project`
 - `Import KML` (Capable of importing KMZ as well)
-- [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
-- [`App Settings`](/docs/launchpad/settings/app-settings.md)
+- [`Drone Settings`](/launchpad/settings/drone-settings.md)
+- [`App Settings`](/launchpad/settings/app-settings.md)
 
 ![Menu](./img/mission-list-screen-menu.jpg)

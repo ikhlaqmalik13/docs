@@ -15,7 +15,6 @@ be conducted in two ways:
 In the case of an automated mission, the map is zoomed into the path planned in the
 [Mission Planning Screen](./mission-planning-screen.md).
 
-
 ## Head-up Display
 
 Present at the bottom right part of the screen are present some important in-flight telemetry details.
@@ -28,7 +27,6 @@ Present at the bottom right part of the screen are present some important in-fli
 - `R`: Roll angle in degree.
 - `P`: Pitch angle in degree.
 - `Compass`: Heading of the drone.
-
 
 ## Camera
 
@@ -46,14 +44,12 @@ clicked, two actions take place:
   a photo and save in on the camera's SD card.
 - A screen shot of the camera is taken and saved on the transmitter/phone.
 
-
 ## Upload Button
 
 The icon below the menu button on the top left corner of the screen is the mission upload button. The preflight checks
 will be conducted shown when you tap it.
 
 ![Preflight 1](./img/flight-screen-preflight-1.jpg)
-
 
 ### Preflight
 
@@ -78,7 +74,6 @@ This is how the screen will look once all the preflight checks are cleared.
 
 The `Pre-Flight Checks in Progress` will change to `Slide to Launch`.
 
-
 ## Takeoff
 
 The drone will takeoff as shown in the image given below.
@@ -88,14 +83,12 @@ The drone will takeoff as shown in the image given below.
 You can clearly see the drone on the map and the distance from the home/takeoff location and its altitude. The red color
 represents the front side of the drone.
 
-
 ## Return to Launch
 
 When in air, the mission upload button becomes the RTL button. You can tap it to access the `Slide to RTL` dialog as
 shown in the image below.  
 
 ![RTL](./img/flight-screen-rtl.jpg)
-
 
 ## Menu
 
@@ -106,8 +99,7 @@ The menu button on the top left corner has the following options:
 - `Map Type`: Switch between satellite and normal map types.
 - `Continue Mission`: Continue the mission from the last waypoint in case it was interrupted.
 - `Mission Info`: Information about the current mission.
-- [`Drone Settings`](/docs/launchpad/settings/drone-settings.md)
-- [`App Settings`](/docs/launchpad/settings/app-settings.md)
-
+- [`Drone Settings`](/launchpad/settings/drone-settings.md)
+- [`App Settings`](/launchpad/settings/app-settings.md)
 
 ![Menu](./img/flight-screen-menu.jpg)

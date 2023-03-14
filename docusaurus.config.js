@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UMT LaunchPad',
-  tagline: 'Plan, Execute and Fly',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'UrbanMatrix',
+  tagline: 'Companion Computer | GCS | Cloud Platform',
+  url: process.env.URL || 'https://docs.urbanmatrix.co.in/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'urbanmatrix', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -33,15 +33,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/urbanmatrix/docs/edit/main/',
         },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+        blog: false
       }),
     ],
   ],
@@ -50,21 +49,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: '',
         logo: {
-          alt: 'UrbanMatrix logo',
-          src: 'img/logo.png',
-          width: 200
+          alt: 'logo',
+          src: 'img/logo.svg',
+          width: 48,
+          height: 48
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/urbanmatrix/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -77,8 +70,24 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Home',
+                to: '/',
+              },
+              {
+                label: 'Launchpad',
+                to: 'category/launchpad/',
+              },
+              {
+                label: 'MatrixConsole',
+                to: '/category/matrix-console',
+              },
+              {
+                label: 'MatrixCC',
+                to: '/category/matrixcc',
+              },
+              {
+                label: 'MatrixOS Dashboard',
+                to: '/category/matrixos-dashboard',
               },
             ],
           },
@@ -86,16 +95,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/urbanmatrix_in',
+              },
+              {
+                label: "Youtube",
+                href: 'https://www.youtube.com/@urbanmatrixdrones'
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/urbanmatrix/',
               },
             ],
           },
@@ -104,12 +113,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/urbanmatrix/docs',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UrbanMatrix. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

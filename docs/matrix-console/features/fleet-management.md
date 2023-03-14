@@ -21,8 +21,8 @@ sidebar_position: 6
 
 ## Tracking
 
-- After selecting a particular drone and clicking "Live track" at the bottom of the box will redirect you to a new page containing the live drone feed and telemetry data of the drone. 
-- You can control the drone remotely and send 3 commands. This is explained in detail [here](/docs/matrix-console/features/flight-operations.md) 
+- After selecting a particular drone and clicking "Live track" at the bottom of the box will redirect you to a new page containing the live drone feed and telemetry data of the drone.
+- You can control the drone remotely and send 3 commands. This is explained in detail [here](/matrix-console/features/flight-operations.md)
 
 ![Tracking](img/livetrack.gif)
 
