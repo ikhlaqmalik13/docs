@@ -23,7 +23,7 @@
 4. Install dependencies
     
     ```bash
-    yarm
+    yarn
     ```
 
 ## Run
