@@ -14,17 +14,22 @@
     ```bash
     nvm install v18.12.1
     ```
-
-3. Install dependencies
+    
+3. Install yarn
+   ```bash
+    npm install --global yarn
+    ```
+    
+4. Install dependencies
     
     ```bash
-    npm install
+    yarm
     ```
 
 ## Run
 
 ```bash
-npm run start
+yarn start
 ```
 
 ## Tools
