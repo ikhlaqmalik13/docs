@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UrbanMatrix',
+  title: 'NextUAV',
   tagline: 'Companion Computer | GCS | Cloud Platform',
-  url: process.env.URL || 'https://docs.urbanmatrix.co.in/',
+  url: process.env.URL || 'https://docs.nextuav.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -78,7 +78,7 @@ const config = {
                 to: 'category/launchpad/',
               },
               {
-                label: 'MatrixConsole',
+                label: 'NextConsole',
                 to: '/category/matrix-console',
               },
               {
@@ -118,7 +118,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} UrbanMatrix. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NextUAV. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

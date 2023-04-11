@@ -44,7 +44,7 @@ Given below are some of the flight modes available:
 
 - `RTL`: This is the flight mode that will be shown when the drone is performing a return to launch.
 
-  RTL can be manually triggered by the pilot from the transmitter or remotely from the UMT Console, or
+  RTL can be manually triggered by the pilot from the transmitter or remotely from the NextConsole, or
   automatically when the battery percentage touches 15%.
 
 ### LTE signal strength
@@ -62,7 +62,7 @@ white.
 Since UMT Drones are the only drones having 4G capabilities, it is essential that the drone is flown in areas where
 there is good 4G network connectivity. Though this is **not required** to fly the drones, this will ensure that various
 parameters of the drone such as altitude, speed, etc., along with the live video feed of the drone camera will be
-transmitted to UMT Console and viewed anywhere in the world.  
+transmitted to NextConsole and viewed anywhere in the world.  
 
 ### Satellite connectivity
 

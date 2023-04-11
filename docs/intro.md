@@ -19,8 +19,8 @@ such as flight planning, mapping and agriculture.
 We understand that time is valuable, and our documentation is designed to be easy to navigate and search. We strive to
 provide clear and concise information that is easy to understand, making it easy for you to find the answers you need.
 
-At UrbanMatrix, we are committed to providing excellent customer service and support. If you have any questions or
+At NextUAV, we are committed to providing excellent customer service and support. If you have any questions or
 concerns while using our software, our team of experts is here to help. We are always happy to assist you in any way we
 can.
 
-You can write to us at: [contact@urbanmatrix.co.in](mailto:contact@urbanmatrix.co.in)
+You can write to us at: [support@nextuav.com](mailto:support@nextuav.com)
