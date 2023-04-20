@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# MatrixCC Details
+# NextCC Details
 
 - Device ID: 
  A unique identification number assigned to a specific drone by the manufacturer or user. 

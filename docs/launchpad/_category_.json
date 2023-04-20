@@ -3,6 +3,7 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Ground Control Station"
+    "description": "Ground Control Station",
+    "slug": "/category/launchpad"
   }
 }

@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Privacy Policy for UMT LaunchPad
+# Privacy Policy for NextUAV LaunchPad
 
 Last updated: September 30, 2022
 
@@ -30,7 +30,7 @@ means ownership of 50% or more of the shares, equity interest or other securitie
 directors or other managing authority.
 
 - __Application__ means the software program provided by the Company downloaded by You on any electronic device, named
-UMT LaunchPad
+NextUAV LaunchPad
 
 - __Company__ (referred to as either "UrbanMatrix", "the Company", "We", "Us" or "Our" in this Agreement) refers to
 UrbanMatrix Technologies Private Limited, Bangalore.
@@ -62,11 +62,11 @@ such individual is accessing or using the Service, as applicable.
 
 #### UAV Data
 
-UMT LaunchPad does not collect Your UAV data in any way.
+NextUAV LaunchPad does not collect Your UAV data in any way.
 
 #### Personal Data
 
-While using UMT LaunchPad, We may ask You to provide Us with certain personally identifiable information that can be
+While using NextUAV LaunchPad, We may ask You to provide Us with certain personally identifiable information that can be
 used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 - Email address

@@ -1,11 +1,11 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 ---
 
 # Integration
 
 In this section you'd find the integration of main components.
-![MatrixCC Integration](img/matrixcc-integration.png)
+![NextCC Integration](img/next-cc-integration.png)
 
 *Note: Ensure that you've inserted the SIM card properly.*
 
@@ -31,7 +31,7 @@ Please refer to the pin out diagram below [*Note- 5V, CTS & RTS have been discon
 ## P2 : RADIO LINK
 
 - Cable : 6 pin
-- Connect the P2 port of the MatrixCC to the air unit using a UART cable.
+- Connect the P2 port of the NextCC to the air unit using a UART cable.
 - *Standard Connection:* Connect the air unit to your autopilot.
 
 Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
@@ -50,7 +50,7 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 
 - Cable : Power Connector
 - Power requirements : 5V | 2A (max)
-- Use the power connector given in the box to power the MatrixCC.
+- Use the power connector given in the box to power the NextCC.
 - Always plug in antenna before powering on​
 
 ![Power](img/battery-removebg-preview.png)
@@ -58,7 +58,7 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 ## P4 : NETWORK HUB (optional)
 
 - Cable : 4 pin
-- Connect the P4 port of the MatrixCC to the P1 port of the Network Hub.
+- Connect the P4 port of the NextCC to the P1 port of the Network Hub.
 
 ![Network Hub](img/ethernet-removebg-preview.png)
 
@@ -76,7 +76,7 @@ Please refer to the pin out diagram below. [*Note- Rx Tx may be swapped*]
 
 ## PAYLOAD (optional)
 
-This section explains the integration of MatrixCC with an IP camera. To illustrate an example the IP camera used is a SIYI MK15 IP67.
+This section explains the integration of NextCC with an IP camera. To illustrate an example the IP camera used is a SIYI MK15 IP67.
 
 ### IP camera
 

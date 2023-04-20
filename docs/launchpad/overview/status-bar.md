@@ -49,7 +49,7 @@ Given below are some of the flight modes available:
 
 ### LTE signal strength
 
-*This feature is only available to UMT drone or MatrixCC users.*
+*This feature is only available to drones that have NextCC installed.*
 
 ![LTE](./img/status-bar-lte.jpg)
 
@@ -57,12 +57,9 @@ The third icon from the left which can be seen in our cellphones represents exac
 well which is the mobile network strength symbol.
 
 From the above image it is clearly seen that there is no 4G Signal connectivity are the symbol is not solid filled
-white.
-
-Since UMT Drones are the only drones having 4G capabilities, it is essential that the drone is flown in areas where
-there is good 4G network connectivity. Though this is **not required** to fly the drones, this will ensure that various
-parameters of the drone such as altitude, speed, etc., along with the live video feed of the drone camera will be
-transmitted to NextConsole and viewed anywhere in the world.  
+white. This is **not required** to fly the drones, this will ensure that various parameters of the drone such as
+altitude, speed, etc., along with the live video feed of the drone camera will be transmitted to NextConsole and viewed
+anywhere in the world.  
 
 ### Satellite connectivity
 

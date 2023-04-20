@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# Terms and Conditions for UMT LaunchPad
+# Terms and Conditions for NextUAV LaunchPad
 
 Last updated: September 30, 2022
 
@@ -20,7 +20,7 @@ definitions shall have the same meaning regardless of whether they appear in sin
 For the purposes of these Terms and Conditions:
 
 - __Application__ means the software program provided by the Company downloaded by You on any electronic device, named
-UMT LaunchPad
+NextUAV LaunchPad
 
 - __Application Store__ means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or
 Google Inc. (Google Play Store) in which the Application has been downloaded.
@@ -54,9 +54,9 @@ such individual is accessing or using the Service, as applicable.
 UrbanMatrix does not warrant its products for any unauthorized use without adhering to the local authority’s regulations
 in place at the time of operation.
 
-UMT LaunchPad is simply a UAV control software. It does not change your flight dynamics in any way. It depends on the
+NextUAV LaunchPad is simply a UAV control software. It does not change your flight dynamics in any way. It depends on the
 configuration set by the UAV manufacturer. Please make sure that configurations are within the limits of safe and stable
-UAV operation. UrbanMatrix is not responsible for any mishandling or unsafe usage of the UAV using UMT LaunchPad.
+UAV operation. UrbanMatrix is not responsible for any mishandling or unsafe usage of the UAV using NextUAV LaunchPad.
 
 Flying a UAV exposes consumers to a wide range of liability, and that’s especially true for drone users with little
 experience. It’s possible that man-handling your drone could malfunction and crash into someone’s property, causing

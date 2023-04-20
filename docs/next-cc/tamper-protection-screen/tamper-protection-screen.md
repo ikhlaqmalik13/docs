@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Tamper Protection Screen
 
-- Please ensure that the tamper proof module is connected to the [MatrixCC](/matrixcc/integration.md)
+- Please ensure that the tamper proof module is connected to the [NextCC](/docs/next-cc/getting-started/integration.md)
 - Your tamper proof module must have a switch soldered to the correct pins [S1 & S2]
-- Please refer to the first time setup to open the [MatrixOS Dashboard](/matrix-os/getting-started/first-time-setup.md)
+- Please refer to the first time setup to open the [NextOS Dashboard](/docs/next-cc/getting-started/first-time-setup.md)
 
-*Ensure that you RESTART the MatrixCC if you enable/disable any feature.*
+*Ensure that you RESTART the NextCC if you enable/disable any feature.*
 
 ## Enable Hardware Tamper monitoring
 

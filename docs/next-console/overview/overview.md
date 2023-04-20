@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Overview Dashboard
 
-## Organisation Insights
+## Organization Insights
 
 - Flight Distance : Summation of the total distance covered by all your drones.
 - Flight Time : Summation of the total flight time of all your drones.
@@ -13,14 +13,14 @@ sidebar_position: 5
 - Pilots : Total number of ACTIVE pilots.
 - Reports : Total number of reports generated.
 
-Find more details about fleet management [here](/matrix-console/features/fleet-management.md)  
+Find more details about fleet management [here](/docs/next-console/features/fleet-management.md)  
 
 ![Dashboard](img/dashboard.png)
 
 ## Drone Fleet
 
-- This page gives a tabular visualisation of all your drones.
-- Clicking on a specifc drone shows its Flight Log History. This is explained in detail [here](/matrix-console/features/flight-log-history.md)
+- This page gives a tabular visualization of all your drones.
+- Clicking on a specific drone shows its Flight Log History. This is explained in detail [here](/docs/next-console/features/flight-log-history.md)
 
 ![Drones](img/drones.png)
 
@@ -37,7 +37,7 @@ Find more details about fleet management [here](/matrix-console/features/fleet-m
 - This section displays flight data for your drones in a tabular format.
 - You can sort this data on the basis of flight status.
 - Clicking on a specific path taken by the drone shows crucial Flight Details.
-- You can also generate a report of your flight. This is explained in detail [here](/matrix-console/features/report.md)
+- You can also generate a report of your flight. This is explained in detail [here](/docs/next-console/features/report.md)
 
 ![Flights](img/flights.png)
 

@@ -10,7 +10,7 @@ LaunchPad is currently available **only for Android** devices. It can be found o
 
 ![Google Play Store](./img/install-play-store.jpg)
 
-Else, you can open the Google Play Store and type **umt launchpad** in the search bar. **UMT LaunchPad** should come up as the first result.
+Else, you can open the Google Play Store and type **launchpad gcs** in the search bar. **NextUAV LaunchPad** should come up as the first result.
 
 ## Installing the Application
 

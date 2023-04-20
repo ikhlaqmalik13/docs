@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'urbanmatrix', // Usually your GitHub org/user name.
+  organizationName: 'nextuav', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/urbanmatrix/docs/edit/main/',
+            'https://github.com/nextuav/docs/edit/main/',
         },
         blog: false
       }),
@@ -58,7 +58,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/urbanmatrix/docs',
+            href: 'https://github.com/nextuav/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -76,19 +76,15 @@ const config = {
               },
               {
                 label: 'Launchpad',
-                to: 'category/launchpad/',
+                to: '/category/launchpad/',
               },
               {
                 label: 'NextConsole',
-                to: '/category/matrix-console',
+                to: '/category/next-console',
               },
               {
-                label: 'MatrixCC',
-                to: '/category/matrixcc',
-              },
-              {
-                label: 'MatrixOS Dashboard',
-                to: '/category/matrixos-dashboard',
+                label: 'NextCC',
+                to: '/category/next-cc',
               },
             ],
           },
@@ -96,16 +92,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/urbanmatrix_in',
-              },
-              {
-                label: "Youtube",
-                href: 'https://www.youtube.com/@urbanmatrixdrones'
-              },
-              {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/company/urbanmatrix/',
+                href: 'https://www.linkedin.com/showcase/nextuav-global/about/',
               },
             ],
           },
@@ -114,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/urbanmatrix/docs',
+                href: 'https://github.com/nextuav/docs',
               },
             ],
           },
