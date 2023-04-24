@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-UMT LaunchPad is designed to help you take your drone operations to the next level. LaunchPad is an intuitive,
+NextUAV LaunchPad is designed to help you take your drone operations to the next level. LaunchPad is an intuitive,
 user-friendly, and powerful ground control station that enables you to plan, execute and monitor your drone flights with
 precision and ease.
 
