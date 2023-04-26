@@ -3,6 +3,7 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Get started with NextUAV LaunchPad."
+    "description": "Get started with NextUAV LaunchPad.",
+    "slug": "/launchpad/getting-started"
   }
 }

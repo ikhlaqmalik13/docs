@@ -3,6 +3,7 @@
   "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Get started with NextOS."
+    "description": "Get started with NextOS.",
+    "slug": "/next-cc/getting-started"
   }
 }

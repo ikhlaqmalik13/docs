@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Software Protection
+# Software
 
 ## Enable Param Update Protection
 

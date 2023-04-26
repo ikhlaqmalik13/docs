@@ -3,6 +3,7 @@
   "position": 5,
   "link": {
     "type": "generated-index",
-    "description": "Flight"
+    "description": "Flight",
+    "slug": "/launchpad/flight"
   }
 }

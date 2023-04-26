@@ -4,17 +4,15 @@ sidebar_position: 4
 
 # Mission Planning Screen
 
-As soon as you tap any mission type option or the play button of any mission in the
-[Mission List Screen](./mission-list-screen.md) you are taken to the Mission Planning Screen. If user location is
-available then the map gets zoomed into the user, otherwise you are zoomed into the previously planned mission.
+The Mission Planning Screen allows you to create the flight path and set the required parameters for the specific
+mission type. To keep the workflow simple, this screen shows only the parameters that are required by the mission type.
+For more details on each mission type, refer the [Mission Planning](/launchpad/mission-planning) section.
 
-![Mission Planning Screen](./img/mission-planning-screen-intro.jpg)
+![Intro](./img/mission-planning-screen-intro.jpg)
 
 ## Menu
 
-Top left corner has another menu button that opens up various options which are shown in the image given below.
-
-![Menu](./img/mission-planning-screen-menu.jpg)
+Top left corner has another menu button that opens up the following options:
 
 - `Drone Location`: Zoom into the location of the drone.
 - `My Location`: Zoom into the location of the transmitter.
@@ -23,11 +21,13 @@ Top left corner has another menu button that opens up various options which are 
 - [`Drone Settings`](/launchpad/settings/drone-settings.md)
 - [`App Settings`](/launchpad/settings/app-settings.md)
 
+![Menu](./img/mission-planning-screen-menu.jpg)
+
 ## Drawing Buttons
 
-![Drawing Buttons](./img/mission-planning-screen-intro.jpg)
+The drawing buttons are present at the bottom left and right of the screen.
 
-There are 5 other options right below the menu button. They are (from top to bottom):
+The buttons on the bottom left are (from top to bottom):
 
 - `Single tap Geo-fence`
 - `Add/Remove Vertices`
@@ -35,24 +35,33 @@ There are 5 other options right below the menu button. They are (from top to bot
 - `Save Drawing`
 - `Proceed to Mission Parameters`
 
+The button on the bottom right is `Add Vertex at Drone Location`.
+
+![Drawing Buttons](./img/mission-planning-screen-drawing-buttons.jpg)
+
 ## Drawing Basics
 
-All you have to do to create the drawing is ensure that the `Add/Remove Vertices` symbol is looking like a negative
-sign. Then tap anywhere on the screen a black target looking icon will be displayed where you had tapped.
+To create the drawing ensure that the `Add/Remove Vertices` icon is a negative sign. Then tap on the map where you want
+to create the first vertex. A black target will be appear at the location.
 
-![Create Drawing 1](./img/mission-planning-screen-create-drawing-1.jpg)
+![Drawing Basics 1](./img/mission-planning-screen-drawing-basics-1.jpg)
 
-Next tap anywhere else on the map to add a new vertex. A blue line will be created which will join these two vertices.
+Next, tap on the map where you want to add the next vertex. A blue line will be created which will join the two
+vertices.
 
-![Create Drawing 2](./img/mission-planning-screen-create-drawing-2.jpg)
+![Drawing Basics 2](./img/mission-planning-screen-drawing-basics-2.jpg)
+
+You can also click the `Add Vertex at Drone Location` (bottom right) to add a vertex at the drone's current location.
+
+![Drawing Basics 3](./img/mission-planning-screen-drawing-basics-3.jpg)
 
 Based on the mission type, you can either create a line or a polygon. These are covered in detail in the
-[Mission Planning](/category/mission-planning) Section.
+[Mission Planning](/launchpad/mission-planning) section.
 
 ## Mission Parameter Sheet
 
 Based on the mission type, the user is prompted different types mission parameters. These are covered in detail in the
-[Mission Planning](/category/mission-planning) Section.
+[Mission Planning](/launchpad/mission-planning) section.
 
 ![Mission Parameters](./img/mission-planning-screen-parameter-sheet.jpg)
 

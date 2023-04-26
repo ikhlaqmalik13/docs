@@ -76,15 +76,15 @@ const config = {
               },
               {
                 label: 'Launchpad',
-                to: '/category/launchpad/',
+                to: '/launchpad',
               },
               {
                 label: 'NextConsole',
-                to: '/category/next-console',
+                to: '/next-console',
               },
               {
                 label: 'NextCC',
-                to: '/category/next-cc',
+                to: '/next-cc',
               },
             ],
           },

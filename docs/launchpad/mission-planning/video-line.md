@@ -2,9 +2,9 @@
 sidebar_position: 4
 ---
 
-# Line Video Mission
+# Video Line Mission
 
-Line video drone missions, also known as linear missions, are commonly used in applications where the drone needs to
+Video line drone missions, also known as linear missions, are commonly used in applications where the drone needs to
 capture a continuous video stream of a specific linear feature or area, such as a pipeline, a highway, or a coastline.
 In a line video drone mission, the drone flies along a predefined flight path, following the linear feature, and
 captures a continuous video stream from its camera. This data can then be used for inspection, monitoring, or analysis

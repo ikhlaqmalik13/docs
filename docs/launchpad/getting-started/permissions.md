@@ -1,31 +1,22 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Permissions
 
 ## Location Permission
 
-After logging into to the application the first permission that is required is for location services. This permission is
-required by the app to show the **user** location and **not the drone**. As you can see the app presents you with two
-options.
+Location permissions are required by the app to show the **user** location. This helps the pilots to get a good idea of
+their relative position with respect to the drone.
 
-![Location Permission](img/permissions-location.jpg)
-
-- `Precise` - Ideal conditions can pinpoint you down to a meter.
-- `Approximate` - Your location can be within 100 meters.
-
-Then user has three options to select from for permission usage:
-
-- `While using the app`
-- `Only this time`
-- `Don't allow`
+- `Precise` - This estimate is usually within 50 meters and is sometimes as accurate as within a few meters or better.
+- `Approximate` - This estimate is accurate to within about 3 square kilometers.
 
 ## Media Permission
 
-The app also requires is access to the photos and media.
+By granting this permission you will be able to import **KML** and **KMZ** files into the application. Also, you will be
+able to store the compressed versions of the drone camera pictures.
 
-![Media Permission](./img/permissions-media.jpg)
+## Bluetooth Permissions
 
-By granting this permission you will be able to import **KML** and **KMZ** files into the application. This will be further
-explained in the coming pages. Also, you will be able to store the compressed versions of the drone camera pictures.
+These permissions are required for LaunchPad to connect to a telemetry device using Bluetooth.

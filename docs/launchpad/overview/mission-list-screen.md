@@ -4,45 +4,48 @@ sidebar_position: 3
 
 # Mission List Screen
 
-When you tap on a project in the [Project List Screen](./project-list-screen.md) then the Mission List Screen gets
-opened.
+The Mission List Screen helps you manage several autonomous missions inside a particular project.
 
-![Mission List Screen](./img/mission-list-screen-intro.jpg)
+![Intro](./img/mission-list-screen-intro.jpg)
 
 ## Create Mission
 
-LaunchPad currently offers 5 different types of automated missions:
+LaunchPad currently offers 6 different types of automated missions:
 
-- [Single Grid Photo](../mission-planning/single-grid-photo.md)
-- [Double Grid Photo](../mission-planning/double-grid-photo.md)
-- [Line Photo](../mission-planning/line-photo.md)
-- [Line Video](../mission-planning/line-video.md)
-- [Line Recon](../mission-planning/line-recon.md)
+- [`Photo Single Grid`](../mission-planning/photo-single-grid.md)
+- [`Photo Double Grid`](../mission-planning/photo-double-grid.md)
+- [`Photo Line`](../mission-planning/photo-line.md)
+- `Spray Single Grid`
+- [`Video Line`](../mission-planning/video-line.md)
+- [`Recon Line`](../mission-planning/recon-line.md)
 
 ![Create Mission](./img/mission-list-screen-create-mission.jpg)
 
+## Mission Item Buttons
+
+Each mission item has three buttons:
+
+- `Play`: Loads the [Mission Planning Screen](./mission-planning-screen.md) with the mission.
+- `Delete`: Delete the mission.
+- `Info`: Show the mission information.
+
+![Mission Info](./img/mission-list-screen-mission-info.jpg)
+
 ## Map
 
-If you already have a mission created then the world map on the left will zoom into the location where the mission was
-created. The below images depicts the same.
+If you already have missions created then the world map on the left will zoom into that area. Tapping on a mission will
+highlight the corresponding polygon.
 
-![Map 1](./img/mission-list-screen-map-1.jpg)
-
-If you have multiple missions with polygons created in the same area the below image will depict how they will be
-displayed. Tapping the mission you want to open will light up the corresponding polygon in blue color as shown in the
-image below.
-
-![Map 2](./img/mission-list-screen-map-2.jpg)
+![Map](./img/mission-list-screen-map.jpg)
 
 ## Menu
 
-As you can see there is a menu button on the bottom right corner of this screen. When tapped on, it shows the following
-menu items.
+The menu button is present at the bottom right corner of this screen. When tapped on, it shows the following menu items:
 
 - `Rename Project`
 - `Delete Project`
 - `Share Project`
-- `Import KML` (Capable of importing KMZ as well)
+- `Import KML` (Use it to import KMZ as well)
 - [`Drone Settings`](/launchpad/settings/drone-settings.md)
 - [`App Settings`](/launchpad/settings/app-settings.md)
 

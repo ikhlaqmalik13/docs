@@ -3,6 +3,7 @@
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Mission planning"
+    "description": "Mission planning",
+    "slug": "/launchpad/mission-planning"
   }
 }

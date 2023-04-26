@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tamper Protection Screen
+# Hardware
 
 - Please ensure that the tamper proof module is connected to the [NextCC](/docs/next-cc/getting-started/integration.md)
 - Your tamper proof module must have a switch soldered to the correct pins [S1 & S2]
