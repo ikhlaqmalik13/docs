@@ -17,6 +17,6 @@ their relative position with respect to the drone.
 By granting this permission you will be able to import **KML** and **KMZ** files into the application. Also, you will be
 able to store the compressed versions of the drone camera pictures.
 
-## Bluetooth Permissions
+## Bluetooth Permission
 
 These permissions are required for LaunchPad to connect to a telemetry device using Bluetooth.
