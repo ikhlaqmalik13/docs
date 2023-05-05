@@ -16,8 +16,9 @@ connectivity and faster data transfer speeds.
 
 ## Cables
 
-- 6-pin JST connectors with lock (1.25mm pitch)
-- Power cable for NextCC
+- 6-pin JST connectors
+- 4-pin JST connectors
+- Power cable for the NextCC
 
 ## Tamper Proof module (optional)
 

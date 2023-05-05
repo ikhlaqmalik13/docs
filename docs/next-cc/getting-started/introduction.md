@@ -13,4 +13,4 @@ real-time, and make smart decisions even when the pilot is not available.
 With an in-build 4G/5G module, it transforms your drone into a cloud connected drone with endless possibilities such as
 reliable BVLoS operations and live video transmission from an infinite distance.
 
-NextCC interfaces with the [Next Console](/next-console), a cloud-based drone control software.
+NextCC interfaces with the [NextConsole](/next-console), a cloud-based drone control software.

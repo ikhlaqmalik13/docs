@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Hardware
 
-- Ensure that the [tamper proof module is connected to NextCC](/next-cc/getting-started/hardware-setup.md)
+- Ensure that the [tamper proof module is connected to the NextCC](/next-cc/getting-started/hardware-setup.md)
 - Your tamper proof module must have a switch soldered to the correct pins [S1 & S2]
 - Refer the [software setup](/next-cc/getting-started/software-setup.md) to open the NextOS Dashboard
 
