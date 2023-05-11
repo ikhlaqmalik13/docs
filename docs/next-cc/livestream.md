@@ -4,13 +4,15 @@ sidebar_position: 6
 
 # Live Stream
 
-## IP Camera with SIYI MK15
+## Setup
 
-### Video Feed only on NextConsole
+### IP Camera with SIYI MK15
+
+#### Video Feed only on NextConsole
 
 - Simply connect the IP camera with the **ETH** port of the NextCC.
 
-### Video Feed on both NextConsole and GCS
+#### Video Feed on both NextConsole and GCS
 
 - For this, the IP camera, the telemetry receiver and the NextCC should be connected with the network hub.
 - Follow the instructions to [connect the network hub with the NextCC](/next-cc/getting-started/hardware-setup.md).
