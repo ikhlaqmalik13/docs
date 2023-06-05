@@ -55,8 +55,9 @@ The following parameters are available for a `Photo Line` mission:
 Based on the parameters selected, the following values are calculated and displayed:
 
 - `Total Photos`
-- `Flight Distance`
-- `Flight Duration`
+- `Total Distance`
+- `Total Duration`
+- `Max Distance`
 
 ![Data](./img/photo-line-data.jpg)
 

@@ -29,7 +29,7 @@ The drawing buttons are present at the bottom left and right of the screen.
 
 The buttons on the bottom left are (from top to bottom):
 
-- `Single tap Geo-fence`
+- `Single Tap Geo-fence`
 - `Add/Remove Vertices`
 - `Delete Drawing`
 - `Save Drawing`

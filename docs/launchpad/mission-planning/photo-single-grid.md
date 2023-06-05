@@ -63,8 +63,9 @@ Based on the parameters selected, the following values are calculated and displa
 - `GSD`: Ground sampling distance.
 - `Total Photos`: Estimated photos count.
 - `Photo Interval`: Time interval between two consecutive photos.
-- `Flight Distance`
-- `Flight Duration`
+- `Total Distance`
+- `Total Duration`
+- `Max Distance`
 
 ![Data](./img/photo-single-grid-data.jpg)
 

@@ -4,9 +4,14 @@ sidebar_position: 5
 
 # Login
 
-You can login with your **Google ID** and no separate registration process is required.
+LaunchPad provides several login methods:
 
-If you want to use some other ID apart from your Google ID, you can also register as a user on the
-[NextConsole](https://console.nextuav.com/login/signup/) and login using those credentials.
+- `Google`
+- `Email OTP`
+- `Password`
+
+`Login with Google` requires no separate registration process.
+
+For the other methods, users are required to register themselves using the `Sign up` option.
 
 ![Login](./img/login.jpg)

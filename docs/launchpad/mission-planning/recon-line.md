@@ -50,8 +50,9 @@ The following parameters are available for a `Recon Line` mission:
 Based on the parameters selected, the following values are calculated and displayed:
 
 - `Total Waypoints`
-- `Flight Distance`
-- `Flight Duration`
+- `Total Distance`
+- `Total Duration`
+- `Max Distance`
 
 ![Parameters and Data](./img/recon-line-params.jpg)
 
