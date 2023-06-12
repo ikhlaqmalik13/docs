@@ -8,7 +8,7 @@ NextCC supports ethernet connectivity which is primarily used to access video st
 
 Only static ethernet connection is supported by the system.
 
-![Ethernet](img/ethernet.jpg)
+![Ethernet](./img/ethernet.jpg)
 
 ## Changing the Ethernet Address and Gateway
 

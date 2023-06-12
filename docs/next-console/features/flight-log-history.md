@@ -12,7 +12,7 @@ Flight details shows important data of your flights. Some crucial terms are expl
 - Flight Length : Total distance covered by the drone.
 - Side Overlap : The degree to which the images captured by a drone's camera overlap with each other when capturing a large area. This is used for creating accurate and detailed maps.
 
-![Flight log history](img/flight-log-history.gif)
+![Flight log history](./img/flight-log-history.gif)
 
 ## Graphs 
 
@@ -26,4 +26,4 @@ Flight details shows important data of your flights. Some crucial terms are expl
 - Roll (°) graph shows the angle at which the drone is tilted to the left or right. 
 - Yaw (°) graph shows the angle at which the drone is rotated left or right. 
 
-![Flight log history](img/flight-log-history.png)
+![Flight log history](./img/flight-log-history.png)

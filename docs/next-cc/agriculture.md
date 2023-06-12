@@ -33,7 +33,7 @@ A flow meter has three pins, i.e., VCC, GND and signal.
 
 ![Next CC](./img/agriculture-next-cc.png)
 
-![Port](./img/agriculture-port.jpg)
+![Port](./img/agriculture-port.png)
 
 ![Pin Out](./img/agriculture-pin-out.png)
 
@@ -49,7 +49,7 @@ the `Agriculture` section.
 - Click the `Update` button to save the settings.
 - Restart the drone.
 
-![Dashboard](./img/agriculture-dashboard.png)
+![Dashboard](./img/agriculture-dashboard.jpg)
 
 ## Calibration
 

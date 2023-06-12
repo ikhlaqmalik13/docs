@@ -14,4 +14,4 @@ This section lists the important information related to the cellular connection.
 - `Signal Strength`: The current signal strength. Its value ranges between 0 and 100.
 - `Registration Status`: The SIM registration status.
 
-![Cellular](img/cellular.jpg)
+![Cellular](./img/cellular.jpg)

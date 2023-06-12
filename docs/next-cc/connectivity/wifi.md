@@ -7,7 +7,7 @@ sidebar_position: 1
 A list of WiFi networks that the NextCC is able to detect is available in the WiFi section. By default, the NextCC is
 connected to `NextUAV_EXT`, but you can connect it to any of the networks available to it.
 
-![WiFi](img/wifi.jpg)
+![WiFi](./img/wifi.jpg)
 
 ## Connecting to a WiFi Network
 

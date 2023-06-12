@@ -12,5 +12,5 @@ sidebar_position: 2
 
 - Whitelisted prarameters 
 
-![Software update](img/software-update.png)
+![Software update](./img/software-update.png)
 

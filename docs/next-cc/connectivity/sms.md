@@ -9,7 +9,7 @@ the NextCC automatically shifts between 5G, 4G, 3G and 2G based on the availabil
 redundancy, the NextCC can also be configured to send its location via SMS directly to a phone number if no internet is
 available.
 
-![SMS](img/sms.jpg)
+![SMS](./img/sms.jpg)
 
 ## Enabling SMS Telemetry
 

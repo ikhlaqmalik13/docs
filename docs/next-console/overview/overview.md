@@ -15,14 +15,14 @@ sidebar_position: 5
 
 Find more details about fleet management [here](/docs/next-console/features/fleet-management.md)  
 
-![Dashboard](img/dashboard.png)
+![Dashboard](./img/dashboard.png)
 
 ## Drone Fleet
 
 - This page gives a tabular visualization of all your drones.
 - Clicking on a specific drone shows its Flight Log History. This is explained in detail [here](/docs/next-console/features/flight-log-history.md)
 
-![Drones](img/drones.png)
+![Drones](./img/drones.png)
 
 ## Register Drone
 
@@ -30,7 +30,7 @@ Find more details about fleet management [here](/docs/next-console/features/flee
 - Please enter the 16 character code that was generated in NextConsole and provided to you at the time of purchase.
 - Click on "Send"
 
-![Drones](img/register-drone.png)
+![Drones](./img/register-drone.png)
 
 ## Flights
 
@@ -39,11 +39,11 @@ Find more details about fleet management [here](/docs/next-console/features/flee
 - Clicking on a specific path taken by the drone shows crucial Flight Details.
 - You can also generate a report of your flight. This is explained in detail [here](/docs/next-console/features/report.md)
 
-![Flights](img/flights.png)
+![Flights](./img/flights.png)
 
 ## Pilots
 
 - Details of all pilots will be displayed here.
 - This data can be sorted on the basis of active and inactive pilot accounts.
-![Pilot Profile](img/pilot-profile.png)
+![Pilot Profile](./img/pilot-profile.png)
 - Selecting a pilot's profile will display all their information and the list of drones they have access to.
