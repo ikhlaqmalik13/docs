@@ -11,7 +11,7 @@ connected to `NextUAV_EXT`, but you can connect it to any of the networks availa
 
 ## Connecting to a WiFi Network
 
-To connect to a new network, just click it on the list and enter the password when prompted. Wait for a few seconds for
+To connect to a new network, click it on the list and enter the password when prompted. Wait for a few seconds for
 the NextCC to connect to the new network.
 
 If the connection is successfully made, the current page will become inactive because the machine which is used to

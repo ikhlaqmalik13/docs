@@ -17,3 +17,4 @@ available.
 - Enter the `Phone Number` to which the messages are to be sent.
 - Set the `SMS Period` (the time gap between two messages).
 - Click the `Update` button.
+- Restart the NextCC.
