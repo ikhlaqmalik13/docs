@@ -53,7 +53,7 @@ the `Agriculture` section.
 
 ## Calibration
 
-Refer the `Flow Meter Calibration` section in the LaunchPad [Drone Settings](/launchpad/settings/drone-settings.md) for
+Refer the `Flow Meter Calibration` section in the LaunchPad [Drone Settings](/launchpad/drone-settings) for
 instruction on how to calibrate the flow meter.
 
 ## Spray Mission

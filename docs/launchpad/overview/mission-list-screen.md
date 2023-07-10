@@ -49,7 +49,7 @@ The menu button is present at the bottom right corner of this screen. When tappe
 - `Delete Project`
 - `Share Project`
 - `Import KML` (Use it to import KMZ as well)
-- [`Drone Settings`](/launchpad/settings/drone-settings.md)
-- [`App Settings`](/launchpad/settings/app-settings.md)
+- [`Drone Settings`](/launchpad/drone-settings)
+- [`App Settings`](/launchpad/app-settings)
 
 ![Menu](./img/mission-list-screen-menu.jpg)

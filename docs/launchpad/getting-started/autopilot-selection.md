@@ -9,4 +9,4 @@ select between the two systems. Select the autopilot system of your drone and cl
 
 ![Select Autopilot](./img/autopilot-selection.jpg)
 
-This can be changed later in the [App Settings](/launchpad/settings/app-settings.md).
+This can be changed later in the [App Settings](/launchpad/app-settings).

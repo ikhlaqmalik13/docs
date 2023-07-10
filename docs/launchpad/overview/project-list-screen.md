@@ -44,6 +44,6 @@ If you want to fly the drone manually this option must be selected. This will ta
 The blue button with three horizontal white lines represents the menu button.
 
 The two options that can be selected when you tap the menu button are the
-[`App Settings`](/launchpad/settings/app-settings.md) and [`Drone Settings`](/launchpad/settings/drone-settings.md).
+[`App Settings`](/launchpad/app-settings) and [`Drone Settings`](/launchpad/drone-settings).
 
 ![Menu](./img/project-list-screen-menu.jpg)

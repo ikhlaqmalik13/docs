@@ -38,7 +38,7 @@ the camera and replace the map with it.
 
 ![Camera](./img/flight-screen-camera.jpg)
 
-The video stream URL can be configured in the [App Settings](/launchpad/settings/app-settings.md)
+The video stream URL can be configured in the [App Settings](/launchpad/app-settings)
 
 ### Take Photo Button
 
@@ -95,7 +95,7 @@ The menu button on the top left corner has the following options:
 - `Map Type`: Switch between satellite and normal map types.
 - `Continue Mission`: Continue the mission from the last waypoint in case it was interrupted.
 - `Mission Info`: Information about the current mission.
-- [`Drone Settings`](/launchpad/settings/drone-settings.md)
-- [`App Settings`](/launchpad/settings/app-settings.md)
+- [`Drone Settings`](/launchpad/drone-settings)
+- [`App Settings`](/launchpad/app-settings)
 
 ![Menu](./img/flight-screen-menu.jpg)
