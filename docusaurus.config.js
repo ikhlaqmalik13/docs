@@ -75,7 +75,7 @@ const config = {
                 to: '/',
               },
               {
-                label: 'Launchpad',
+                label: 'LaunchPad',
                 to: '/launchpad',
               },
               {
