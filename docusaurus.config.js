@@ -49,7 +49,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "NextUAV Docs",
+        title: "NextUAV Documentation",
         logo: {
           alt: 'logo',
           src: 'img/logo.svg',
