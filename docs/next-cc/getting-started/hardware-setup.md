@@ -84,7 +84,7 @@ The SIM card should be inserted as shown.
 ## Tamper Proof Module \[P5\] (Optional)
 
 - Connect the tamper proof module to the **P5** port.
-- Connect the trigger to the S1 and S2 ports marked on the tamper proof module.
+- Connect one or more triggers modules in parallel to the S1 and S2 ports marked on the tamper proof module.
 
 ![Tamper Proof](./img/hardware-setup-tamper-proof.png)
 

@@ -4,32 +4,40 @@ sidebar_position: 1
 
 # Hardware
 
-- Ensure that the [tamper proof module is connected to the NextCC](/next-cc/getting-started/hardware-setup.md)
-- Your tamper proof module must have a switch soldered to the correct pins [S1 & S2]
-- Refer the [software setup](/next-cc/getting-started/software-setup.md) to open the NextOS Dashboard
+NextCC provides a hardware tamper protection module that drone manufacturers can use to monitor if their drone has been
+tampered with or not. If a tamper is detected, then the NextCC can stop the drone from arming.
 
-*Ensure that you RESTART the NextCC if you enable/disable any feature.*
+To keep things development friendly, drone manufacturers can disable this feature while they are developing and testing
+the drone. They can enable it when they need to give the drone to their clients.
 
-## Enable Hardware Tamper monitoring
+## Setup
 
-- Click on 'Enable Hardware Tamper monitoring'
+- Connect the tamper proof module to the **P5** port of the NextCC.
+- Connect one or more triggers modules in parallel to the S1 and S2 ports marked on the tamper proof module.
+- Place the triggers on different places in your drone where you want to avoid user access.
 
-## Tamper State
+![Module](./img/hardware-setup.png)
 
-### Tampered
+- Open the `Tamper Protection` section of the `NextCC Dashboard`.
+- Click the `Enable Hardware Monitoring` switch.
+- Restart the NextCC.
 
-![Tampered](./img/tampered.png)
+![Dashboard](./img/hardware-dashboard.jpg)
 
-### Untampered
+## Status Monitoring
 
-![Untampered](./img/untampered.png)
+The status can be one of `Tampered` and `Untampered`. Even if the NextCC is not powered up and the tamper protection
+switch is trigger by a person, the tamper is registered. This can be viewed by the drone manufacturer as shown in the
+image.
 
-### Reset
+The status will remain `Tampered` until it is reset by the drone manufacturer.
 
-*Note: Trigger this after switch is set*
+Motor arming will only be allowed while the status is `Untampered`.
 
-### Test
+## Resetting
 
-- Press the switch and enable the tamper monitoring option. The status must be 'untampered'
-- Release the switch and check if the status changes to 'tampered'
-- Click on reset
+Drone manufacturers can reset the tamper protection module's status from `Tampered` to `Untampered`.
+
+- Make sure that the module is connected to the NextCC.
+- Click on the `Reset` button.
+- Wait till the status changes back to `Untampered`.
